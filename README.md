@@ -12,3 +12,4 @@
 
 
 ## Plant Disease Detection
+Run the disease.ipynb one cell by cell to get the desired output
