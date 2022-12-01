@@ -1,0 +1,3 @@
+This link consists of the trained weights file after yolo trining.
+
+https://drive.google.com/drive/folders/1-6TOGBXDHap8b2vIt79p9SZIhBBRQ0XF?usp=share_link
