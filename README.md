@@ -17,4 +17,6 @@
 Run the ``disease.ipynb`` to get the desired output
 
 This is the Working mechanism
-AI model.png
+
+AI worflow
+![My Image](AI model.png)
